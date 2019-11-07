@@ -16,9 +16,9 @@
 
 然后要设置好类文件WHGIClusterTask以下几个宏：
 
-//图层服务地址
+/// 图层服务地址
 #define pWHGIClustLayerService @""
-//需要被聚合的图层ID
+/// 需要被聚合的图层ID
 #define pWHGIClustLayerIDs @[@"0",@"2",@"3",@"4",@"6",@"7",@"8"]
-//各个聚合的图层ID当无法聚合时使用的符号图片名
+/// 各个聚合的图层ID当无法聚合时使用的符号图片名
 #define pWHGIClustLayerSymbolImageNames @[@"image0",@"image2",@"image3",@"image4",@"image6",@"image7",@"image8"];
