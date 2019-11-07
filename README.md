@@ -21,6 +21,6 @@
 ///需要被聚合的图层ID  
 #define pWHGIClustLayerIDs @[@"0",@"2",@"3",@"4",@"6",@"7",@"8"]  
 //各个聚合的图层ID当无法聚合时使用的符号图片名  
-#define pWHGIClustLayerSymbolImageNames @[@"image0",@"image2",@"image3",@"image4",@"image6",@"image7",@"image8"];  
+#define pWHGIClustLayerSymbolImageNames @[@"image0",@"image2",@"image3",@"image4",@"image6",@"image7",@"image8"]  
 
 详细介绍地址：https://blog.csdn.net/qq_31672459/article/details/102947417
