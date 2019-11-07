@@ -1,5 +1,5 @@
 # ArcGis-iOS-Cluster
-基于Arcgis for iOS 10.25版本的聚合功能实现
+基于Arcgis for iOS 10.2.5版本的聚合功能实现
 
 用法：  
 将所有文件下载拖入自己的工程项目，导入WHGIClusterManager并使用以下两个方法
